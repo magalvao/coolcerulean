@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="view_rating_attributes">
+        <attr name="view_rating_stars" format="float" />
+        <attr name="view_rating_reviews_count" format="integer" />
+    </declare-styleable>
+</resources>

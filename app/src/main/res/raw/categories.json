@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Phones",
+    "tag": "phone",
+    "imagePath": "~category_phones"
+  },
+  {
+    "name": "TVs",
+    "tag": "tv",
+    "imagePath": "~category_tvs"
+  },
+  {
+    "name": "Computers",
+    "tag": "computer",
+    "imagePath": "~category_computers"
+  },
+  {
+    "name": "Games",
+    "tag": "game",
+    "imagePath": "~category_games"
+  }
+]
